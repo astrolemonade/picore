@@ -1,0 +1,7 @@
+# picore
+
+## usage
+
+```
+make all
+```
